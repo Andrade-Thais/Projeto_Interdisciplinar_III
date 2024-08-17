@@ -1,0 +1,341 @@
+{
+  "navbar": [
+    {
+      "id": 1,
+      "Content-type": "IMG",
+      "width": "120px",
+      "height": "auto",
+      "alt": "Logo da fotógrafa Adriana Oliveira",
+      "src": "/logo.png"
+    },
+    {
+      "id": 2,
+      "title": "Sobre mim",
+      "Content-type": "navbar-item",
+      "href": "/#sobre-mim"
+    },
+    {
+      "id": 3,
+      "title": "Serviços",
+      "Content-type": "navbar-item",
+      "href": "/#servicos"
+    },
+    {
+      "id": 4,
+      "title": "Depoimentos",
+      "Content-type": "navbar-item",
+      "href": "/#depoimentos"
+    },
+    {
+      "id": 5,
+      "title": "Preços",
+      "Content-type": "navbar-item",
+      "href": "/#precos"
+    },
+    {
+      "id": 6,
+      "title": "Contato",
+      "Content-type": "navbar-item",
+      "href": "/#contato"
+    },
+    {
+      "id": 7,
+      "title": "Galeria",
+      "Content-type": "navbar-item",
+      "href": "/galeria"
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "title": "Logo",
+      "Content-type": "IMG",
+      "src": "https://i.ibb.co/m592cng/IMG-20240408-WA0020.jpg",
+      "width": "auto",
+      "height": "auto",
+      "bakcgroundImage": "https://pixabay.com/get/gb2a8d2a5ae0cd0f6704036793e8b59a3ff0036e0b3312774bb5028a412edf37ef45a33a9636e678bb75bd2090c2d6b927d8194857cf71cd9bea14a626dc096d8_1280.jpg"
+    },
+    {
+      "id": 2,
+      "payload": "Serviços de fotografia em São Paulo",
+      "Content-type": "h2"
+    },
+    {
+      "id": 3,
+      "payload": "Adriana, a guardiã de momentos inesquecíveis, capturando a essência da felicidade em cada clique. Seja bem-vindo(a) ao meu mundo de memórias encantadas!",
+      "Content-type": "p"
+    },
+    {
+      "id": 4,
+      "payload": "Entre em contato já!",
+      "Content-type": "button",
+      "href": "#contato"
+    },
+    {
+      "id": 5,
+      "title": "Imagens",
+      "Content-type": "IMGgallery",
+      "src": [
+        "https://i.ibb.co/gDgDGds/Montagem-de-Fotos-Mem-rias-1.png"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Serviços Oferecidos",
+      "description": "Ofereço uma variedade de serviços de fotografia personalizados. Estou aqui para capturar seus momentos especiais com qualidade e profissionalismo.",
+      "Content-type": "intro"
+    },
+    {
+      "id": 2,
+      "title": "Ensaio Familia",
+      "description": "Registre o amor, conexão e união que existe em sua família, transformando em algo palpável as imagens que serão tesouros para sempre.",
+      "Content-type": "service"
+    },
+    {
+      "id": 3,
+      "title": "Ensaio Gestante",
+      "description": "Celebre a chegada do seu novo amor com um ensaio fotográfico que captura toda a emoção e expectativa deste momento especial; cada imagem é uma lembrança única deste capítulo emocionante em sua vida!",
+      "Content-type": "service"
+    },
+    {
+      "id": 4,
+      "title": "Ensaio Infantil",
+      "description": "Vamos capturar a inocência, a alegria e a curiosidade das crianças. Cada foto é uma lembrança preciosa de suas personalidades brilhantes e sorrisos contagiantes.",
+      "Content-type": "service"
+    },
+    {
+      "id": 5,
+      "title": "Ensaio Pet",
+      "description": "Vamos registrar a personalidade, o carinho e a energia dos nossos adoráveis amigos pet's. Cada foto é uma celebração do amor incondicional e da conexão especial entre humanos e animais de estimação.",
+      "Content-type": "service"
+    },
+    {
+      "id": 5,
+      "title": "Ensaio Pré-Wedding",
+      "description": "Registre o amor eterno em cada clique. Registraremos no ensaio de pré-wedding a emoção deste momento; capturando a beleza deste momento de um dia inesquecível com delicadeza e maestria.",
+      "Content-type": "service"
+    },
+    {
+      "id": 6,
+      "title": "Ensaios Boudoir",
+      "description": "Reviva sua sensualidade e confiança com um ensaio fotográfico boudoir. Deixe-me capturar sua beleza e elegância de forma delicada e empoderadora, criando memórias deslumbrantes para toda a vida.",
+      "Content-type": "service"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "title": "Depoimentos",
+      "description": "Veja o que os clientes têm a dizer sobre o trabalho de Adriana Oliveira.",
+      "Content-type": "intro"
+    },
+    {
+      "id": 2,
+      "title": "Ariane Madeira",
+      "icon": "https://i.ibb.co/QMXnXTr/Whats-App-Image-2024-04-30-at-20-53-10.jpg",
+      "description": "Fazer minhas fotos de gestante ao ar livre foi uma experiência que nunca esquecerei. Ter minha família junto tornou tudo ainda mais especial. Cada clique da câmera capturou não apenas a beleza da gravidez, mas também a felicidade e a expectativa que sentimos juntos. A natureza ao nosso redor proporcionou um cenário deslumbrante e uma sensação de paz que ressoa em cada foto.",
+      "Content-type": "testimonial"
+    },
+    {
+      "id": 3,
+      "title": "Elisa Mateus",
+      "icon": "https://i.ibb.co/d5qSfW8/Whats-App-Image-2024-04-30-at-20-55-20.jpg",
+      "description": "Adorei as fotos que realizamos. A Adriana é uma excelente profissional, muito atenciosa e dedicada. O resultado foi incrível, superou minhas expectativas. Recomendo muito o trabalho dela. Obrigada por tudo, Adriana! Sucesso sempre! #superrecomendo",
+      "Content-type": "testimonial"
+    },
+    {
+      "id": 4,
+      "title": "Cleide Gaigalas",
+      "icon": "https://i.ibb.co/5Y8LbTs/cleide.jpg",
+      "description": "Tenho pets e adorei a ideia de um ensaio fotográfico para eles. A Adriana foi super atenciosa e paciente com meus bichinhos. O resultado foi incrível, as fotos ficaram lindas! Recomendo muito o trabalho dela. Obrigada, Adriana!",
+      "Content-type": "testimonial"
+    },
+    {
+      "id": 5,
+      "title": "Dina Madeira Mateus",
+      "icon": "https://i.ibb.co/98SxhvD/dina.jpg",
+      "description": "Adriana participou de um momento muito especial para nós; fez o ensaio do nosso casamento e registrou imagens do nosso casamento civil. Ficamos muito satisfeitos com o resultado, as fotos ficaram lindas! Recomendo muito o trabalho dela. Obrigada, Adriana! Grande abraço!",
+      "Content-type": "testimonial"
+    }
+  ],
+  "pricing": [
+    [
+      {
+        "name": "Básico",
+        "price": 350.00,
+        "description": "Capture momentos especiais em imagens memoráveis; neste ensaio você terá disponível:",
+        "benefits": [
+          "10 fotos digitais",
+          "1 cenário",
+          "1 figurino",
+          "30 minutos de ensaio",
+          "Direito a dois participantes"
+        ],
+        "green": "/src/assets/green-dot.png"
+      },
+      {
+        "name": "Essencial",
+        "price": 590.00,
+        "description": "Destaque-se com imagens impressionantes; este pacote inclui:",
+        "benefits": [
+          "20 fotos digitais",
+          "2 cenários",
+          "2 figurinos",
+          "45 minutos de ensaio",
+          "Direito a três participantes"
+        ],
+        "green": "/src/assets/green-dot.png"
+      },
+      {
+        "name": "Premium",
+        "price": 980.00,
+        "description": "O máximo em qualidade e estilo; aproveite os seguintes benefícios:",
+        "benefits": [
+          "30 fotos digitais",
+          "3 cenários",
+          "3 figurinos",
+          "1 hora de ensaio",
+          "Sua Familia inteira pode participar",
+          "Álbum fotográfico personalizado"
+        ],
+        "green": "/src/assets/green-dot.png"
+      }
+    ]
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "title": "Contato",
+      "description": "Entre em contato conosco através de nossas redes sociais ou solicite orçamentos através do formulário abaixo!",
+      "contentType": "intro"
+    },
+    {
+      "id": 2,
+      "label": "Nome Completo",
+      "name": "nome",
+      "placeholder": "João Silva",
+      "missingMessage": "Por favor, insira seu nome e sobrenome para contato.",
+      "invalidMessage": "Formato de nome inválido. Por favor, insira seu nome e sobrenome para contato.",
+      "inputType": "text",
+      "pattern": "^[a-zA-Z]+(\\s[a-zA-Z]+)+$",
+      "contentType": "contact"
+    },
+    {
+      "id": 3,
+      "label": "E-mail",
+      "name": "email",
+      "missingMessage": "Por favor, insira um endereço de e-mail.",
+      "pattern": "^[-.\\w]+@([\\w-]+\\.)+[\\w-]{2,4}$",
+      "invalidMessage": "Formato de e-mail inválido. Por favor, insira um e-mail válido.",
+      "placeholder": "joao@email.com",
+      "inputType": "email",
+      "contentType": "contact"
+    },
+    {
+      "id": 4,
+      "label": "Celular",
+      "name": "celular",
+      "inputType": "tel",
+      "pattern": "^\\(?\\d{2}\\)?\\s?\\d{4,5}-?\\d{4}$",
+      "missingMessage": "Por favor, insira um número de telefone válido.",
+      "invalidMessage": "Formato de telefone inválido. Por favor, insira um número de telefone válido.",
+      "placeholder": "(11) 99999-9999",
+      "contentType": "contact"
+    },
+    {
+      "id": 5,
+      "label": "Mensagem",
+      "inputType": "text",
+      "name": "mensagem",
+      "missingMessage": "Este campo não pode estar vazio.",
+      "placeholder": "Digite sua mensagem aqui, com a maior quantidade de detalhes possível.",
+      "contentType": "contact"
+    },
+    {
+      "id": 6,
+      "label": "Enviar",
+      "contentType": "button"
+    }
+  ],
+
+  "slides": [
+    {
+      "src": "https://i.ibb.co/68SCP6H/IMG-1674.jpg",
+      "title": "Ensaio Gestante",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/p3Nc5D2/Ari-e-Emerson.jpg",
+      "title": "Ensaio Gestante",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/FxPrwtH/IMG-1551.jpg",
+      "title": "Ensaio Gestante",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/5LVKD4c/25062017-MG-7011.jpg",
+      "title": "Ensaio Gestante",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/cTxqjvf/Manu-06.jpg",
+      "title": "Ensaio Infantil",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/YkF9tvK/29122019-IMG-4262.jpg",
+      "title": "Ensaio Infantil",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/wht4Dfd/Manu-13.jpg",
+      "title": "Ensaio Infantil",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/gT8JbFw/20112019-IMG-3524.jpg",
+      "title": "Ensaio Infantil",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/sKt1zYy/MG-8832.jpg",
+      "title": "Ensaio Pet",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/rcS19nW/Bud-4.jpg",
+      "title": "Ensaio Pet",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/LxCn5sC/01062019-IMG-2008.jpg",
+      "title": "Ensaio Pet",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/K6C6zbk/IMG-1559-2.jpg",
+      "title": "Ensaio Pet",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/1LPD5nH/9.jpg",
+      "title": "Ensaio Pré-Wedding",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/3C8yXLH/20.jpg",
+      "title": "Ensaio Pré-Wedding",
+      "description": ""
+    },
+    {
+      "src": "https://i.ibb.co/KqqdycD/40.jpg",
+      "title": "Ensaio Pré-Wedding",
+      "description": ""
+    }
+
+  ]
+  }
