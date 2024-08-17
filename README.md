@@ -1,4 +1,4 @@
-# Projeto Interdisciplinar III - Sistema de Gerenciamento de Fotografias (Em andamento)
+# Projeto Interdisciplinar III - Sistema de Gerenciamento de Fotografias 
 
 <div align="center">
   <a href="https://github.com/HenriqueCosta05/Projeto_Interdisciplinar_III_FATEC">
